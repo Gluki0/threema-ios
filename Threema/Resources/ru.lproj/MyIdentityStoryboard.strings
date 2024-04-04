@@ -1,6 +1,6 @@
 
 /* Class = "UILabel"; text = "Nickname"; ObjectID = "2jc-3N-31S"; */
-"2jc-3N-31S.text" = "Публичный ник";
+"2jc-3N-31S.text" = "Публичное имя пользователя";
 
 /* Class = "UITableViewSection"; footerTitle = "Number: +41 79 123 45 67"; ObjectID = "5HP-W8-nFp"; */
 "5HP-W8-nFp.footerTitle" = "Номер: +41 79 123 45 67";
@@ -27,10 +27,10 @@
 "KTz-4x-SnC.placeholder" = "код";
 
 /* Class = "UILabel"; text = "Nickname"; ObjectID = "NLA-jz-irZ"; */
-"NLA-jz-irZ.text" = "Публичный ник";
+"NLA-jz-irZ.text" = "Публичное имя пользователя";
 
 /* Class = "UITableViewSection"; footerTitle = "Linking your email address or phone number to your ID lets other people find you on Threema automatically if they have you in their address book."; ObjectID = "NUr-0t-zng"; */
-"NUr-0t-zng.footerTitle" = "Привязка вашего емайла или номера телефона к вашему ID позволяет другим пользователям автоматически находить вас в Threema, если вы есть у них в адресной книге.";
+"NUr-0t-zng.footerTitle" = "Привязка вашей почты или номера телефона к вашему ID позволяет другим пользователям автоматически находить вас в Threema, если вы есть у них в адресной книге.";
 
 /* Class = "UILabel"; text = "Threema ID"; ObjectID = "PG7-5d-WL5"; */
 "PG7-5d-WL5.text" = "Threema ID";
@@ -39,7 +39,7 @@
 "QCC-2k-HfZ.text" = "Номер мобильного телефона";
 
 /* Class = "UILabel"; text = "Linked Email"; ObjectID = "Re1-k2-FsT"; */
-"Re1-k2-FsT.text" = "Привязанный емайл";
+"Re1-k2-FsT.text" = "Привязанная почта";
 
 /* Class = "UILabel"; text = "XXXXXXXX"; ObjectID = "RjP-ON-gaW"; */
 "RjP-ON-gaW.text" = "XXXXXXXX";
@@ -54,7 +54,7 @@
 "XOE-qz-Fzh.text" = "Пароль для отзыва идентификационных данных";
 
 /* Class = "UILabel"; text = "Nickname"; ObjectID = "bL4-qe-Mh9"; */
-"bL4-qe-Mh9.text" = "Публичный ник";
+"bL4-qe-Mh9.text" = "Публичное имя пользователя";
 
 /* Class = "UILabel"; text = "Backup"; ObjectID = "eS1-Gf-A4o"; */
 "eS1-Gf-A4o.text" = "Экспорт ID";
@@ -66,10 +66,10 @@
 "jni-2G-zzz.title" = "Изменить профиль";
 
 /* Class = "UITextField"; placeholder = "Nickname"; ObjectID = "o3l-bU-add"; */
-"o3l-bU-add.placeholder" = "Публичный ник";
+"o3l-bU-add.placeholder" = "Публичное имя пользователя";
 
 /* Class = "UITableViewSection"; footerTitle = "Linking your email address to your ID lets other people find you on Threema automatically if they have your email in their address book."; ObjectID = "qQD-Gd-ca9"; */
-"qQD-Gd-ca9.footerTitle" = "Привязка вашего емайла к вашему ID позволяет другим людям автоматически находить вас в Threema, если ваш адрес электронной почты есть у них в адресной книге.";
+"qQD-Gd-ca9.footerTitle" = "Привязка вашей почты к вашему ID позволяет другим людям автоматически находить вас в Threema, если ваш адрес электронной почты есть у них в адресной книге.";
 
 /* Class = "UINavigationItem"; title = "Enter code"; ObjectID = "tGC-WP-fBC"; */
 "tGC-WP-fBC.title" = "Ввести код";
