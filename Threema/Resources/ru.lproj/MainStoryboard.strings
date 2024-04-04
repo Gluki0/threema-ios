@@ -1,6 +1,6 @@
 
 /* Class = "UIBarButtonItem"; title = "Send"; ObjectID = "25C-Te-sfW"; */
-"25C-Te-sfW.title" = "Послать";
+"25C-Te-sfW.title" = "Отправить";
 
 /* Class = "UILabel"; text = "Message preview"; ObjectID = "4a3-95-oYU"; */
 "4a3-95-oYU.text" = "Просмотр сообщения";
@@ -132,7 +132,7 @@
 "JXW-2V-ftV.title" = "Контакты";
 
 /* Class = "UILabel"; text = "Nickname"; ObjectID = "p0V-dq-HkU"; */
-"p0V-dq-HkU.text" = "Публичный ник";
+"p0V-dq-HkU.text" = "Публичное имя пользователя";
 
 /* Class = "UILabel"; text = "Label"; ObjectID = "pVJ-rQ-2qD"; */
 "pVJ-rQ-2qD.text" = "Метка";
@@ -144,7 +144,7 @@
 "tUV-iz-VQc.title" = "Экспорт ID";
 
 /* Class = "UILabel"; text = "Nickname"; ObjectID = "tr2-Ia-imu"; */
-"tr2-Ia-imu.text" = "Публичный ник";
+"tr2-Ia-imu.text" = "Публичное имя пользователя";
 
 /* Class = "UINavigationItem"; title = "Location"; ObjectID = "uA6-FU-2ms"; */
 "uA6-FU-2ms.title" = "Местоположение";
